@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: mysky
+pool: devlab1
 
 steps:
 - script: echo "Stage 1 - Setting up Java version."
